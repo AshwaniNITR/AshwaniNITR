@@ -9,7 +9,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshwaniNITR&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisenapati&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniNITR&layout=compact&theme=radical)
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
