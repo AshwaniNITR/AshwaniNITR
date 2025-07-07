@@ -38,11 +38,11 @@
 
 ## 📊 GitHub Stats
 
-![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwanisenapati&show_icons=true&theme=blueberry&count_private=true)
+![Ashwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwaniNITR&show_icons=true&theme=blueberry&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwanisenapati&theme=blueberry)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshwaniNITR&theme=blueberry)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisenapati&layout=compact&theme=blueberry)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniNITR&layout=compact&theme=blueberry)
 
 ---
 
