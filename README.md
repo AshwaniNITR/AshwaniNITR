@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building impactful tech at **[NirveonX](https://nirveonx.com)**
+- 🔭 I have worked at **[NirveonX](https://nirveonx.com)** as the CTO
 - 🌱 I’m learning **DSA**, diving deeper into **ML**, and exploring **DevOps**
 - 💼 Visit my portfolio: [ashwanisenportfolio.vercel.app](https://ashwanisenportfolio.vercel.app)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ashwani-senapati-ba294827a/)
